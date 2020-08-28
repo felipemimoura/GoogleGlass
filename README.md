@@ -1,6 +1,6 @@
 # Sobre
 
-Esse repositório conta com todo o conteúdo desenvolvido durante o curso HTML " da Alura Cursos Online. Onde é apresentado:
+Esse repositório conta com todo o conteúdo desenvolvido durante o curso "HTML5 do Canal Curso em Video". Onde é apresentado:
 
 - Principais TAGs do HTML
 - Possionamento de elementos com CSS
